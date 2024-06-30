@@ -1,0 +1,7 @@
+## Interface: 100207
+## Title: QuickCommands
+## Notes: Slash command Addon to access Keybind mode function in Blizzard UI with a Command of "/kb"
+## Author: Anthony Chipner
+## Version: 1.0
+
+QuickCommands.lua
