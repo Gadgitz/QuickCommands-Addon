@@ -1,7 +1,0 @@
-{
-    "Lua.diagnostics.globals": [
-        "SlashCmdList",
-        "ReloadUI",
-        "QuickKeybindFrame"
-    ]
-}
