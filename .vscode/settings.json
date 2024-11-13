@@ -2,7 +2,8 @@
     "Lua.diagnostics.globals": [
         "SlashCmdList",
         "ReloadUI",
-        "QuickKeybindFrame"
+        "QuickKeybindFrame",
+        "ShowUIPanel"
     ],
     "Lua.runtime.version": "Lua 5.1",
     "Lua.runtime.builtin": {
