@@ -1,4 +1,4 @@
-## Interface: 110005, 11007
+## Interface: 110005, 110007
 ## Title: QuickCommands
 ## Notes: Slash command Addon to access Keybind mode function in Blizzard UI with a Command of "/kb"
 ## Author: Gadgitz
