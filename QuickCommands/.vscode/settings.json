@@ -8,6 +8,7 @@
         "SLASH_RELOAD1",
         "SLASH_RELOAD2",
         "show",
-        "CloseMenus"
+        "CloseMenus",
+        "ShowUIPanel"
     ]
 }
